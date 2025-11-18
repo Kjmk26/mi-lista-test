@@ -1,0 +1,2 @@
+# mi-lista-test
+CHANNEL
